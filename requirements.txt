@@ -3,3 +3,8 @@ scikit-learn
 matplotlib
 ipython
 ipykernel
+datetime
+
+# for the algoritms
+sklearn
+scipy
